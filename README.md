@@ -1,3 +1,3 @@
 # MM-project
 
-Various bioinformatic scripts to use
+Archive of various bioinformatic strange scripts
